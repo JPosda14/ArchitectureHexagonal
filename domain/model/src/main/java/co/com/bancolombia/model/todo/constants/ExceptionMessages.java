@@ -1,4 +1,4 @@
-package co.com.credilya.todo.domain.model.todo.constants;
+package co.com.bancolombia.model.todo.constants;
 
 public enum ExceptionMessages {
     TODO_ALREADY_EXISTS("Todo with title '%s' already exists"),

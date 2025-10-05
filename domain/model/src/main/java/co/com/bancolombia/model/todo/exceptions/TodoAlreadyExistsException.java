@@ -1,6 +1,6 @@
-package co.com.credilya.todo.domain.model.todo.exceptions;
+package co.com.bancolombia.model.todo.exceptions;
 
-import co.com.credilya.todo.domain.model.todo.constants.ExceptionMessages;
+import co.com.credilya.todo.model.todo.constants.ExceptionMessages;
 
 public class TodoAlreadyExistsException extends RuntimeException {
     public TodoAlreadyExistsException(String title) {
